@@ -3,7 +3,8 @@
 Plugin Name: Custom Price Label for Product
 Description: Allows users to customize the price label for products. Created by PixelBloom
 Version: 1.0
-Author: Nemanja Falb - PixelBloom
+Author: Nemanja Falb - pixelpioneerpro
+Product URL: pixelpioneerpro.com
 License: GPL-2.0+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
