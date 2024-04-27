@@ -1,5 +1,5 @@
 === Custom Price Label for Product ===
-Contributors: nemanjafalb
+Contributors: Nemanja Falb
 Tags: woocommerce, ecommerce, currency, price label, custom currency
 Requires at least: 4.9
 Tested up to: 6.2
